@@ -1,0 +1,3 @@
+[submodule "RTS-GMLC"]
+	path = RTS-GMLC
+	url = https://github.com/GridMod/RTS-GMLC.git
