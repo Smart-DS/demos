@@ -103,3 +103,4 @@ ENV/
 # Directories
 Repo
 rts_new_genmix_1
+*.csv
