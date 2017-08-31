@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Directories
+Repo
+rts_new_genmix_1
+*.csv
