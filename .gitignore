@@ -102,5 +102,5 @@ ENV/
 
 # Directories
 Repo
-rts_new_genmix_1
+rts_new_genmix*
 *.csv
